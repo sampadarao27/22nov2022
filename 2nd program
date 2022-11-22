@@ -1,0 +1,14 @@
+calculating EMI
+EMI=(SI+P)/T*12
+P=int(input('principal amount:')
+t=int(input('time period'))
+r=float(input("rate of interest'))
+si=(p*t*r)/100
+print('simple interest:',si)
+
+
+output:
+principal amount:100000
+time period:3
+rate of interest:10.5
+si:31,500
